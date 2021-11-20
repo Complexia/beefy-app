@@ -13,9 +13,9 @@ const Footer = () => {
   return (
     <div className={classes.root}>
       <div className={classes.column}>
-        <div className={classes.title}>beefy.finance</div>
+        <div className={classes.title}>coco finance</div>
         <a
-          href="https://docs.beefy.finance"
+          href="https://docs.google.com/document/d/1ZvKvt8hWqyGU4kJxbVbDMFXwBqv9wLFNC9Q1kwJJ9Mk/edit?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className={classes.link}
@@ -25,7 +25,7 @@ const Footer = () => {
         </a>
 
         <a
-          href="https://blog.beefy.finance/articles"
+          href="https://docs.google.com/document/d/1ZvKvt8hWqyGU4kJxbVbDMFXwBqv9wLFNC9Q1kwJJ9Mk/edit?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className={classes.link}
@@ -35,7 +35,7 @@ const Footer = () => {
         </a>
 
         <a
-          href="https://github.com/beefyfinance"
+          href="https://github.com/Complexia"
           target="_blank"
           rel="noopener noreferrer"
           className={classes.link}
@@ -48,7 +48,7 @@ const Footer = () => {
       <div className={classes.column}>
         <div className={classes.title}>{t('products')}</div>
         <a
-          href="https://gov.beefy.finance"
+          href="https://docs.google.com/document/d/1ZvKvt8hWqyGU4kJxbVbDMFXwBqv9wLFNC9Q1kwJJ9Mk/edit?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className={classes.link}
@@ -58,7 +58,7 @@ const Footer = () => {
         </a>
 
         <a
-          href="https://vote.beefy.finance"
+          href="https://docs.google.com/document/d/1ZvKvt8hWqyGU4kJxbVbDMFXwBqv9wLFNC9Q1kwJJ9Mk/edit?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className={classes.link}
@@ -68,7 +68,7 @@ const Footer = () => {
         </a>
 
         <a
-          href="https://app.beefy.finance"
+          href="https://docs.google.com/document/d/1ZvKvt8hWqyGU4kJxbVbDMFXwBqv9wLFNC9Q1kwJJ9Mk/edit?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className={classes.link}
@@ -81,7 +81,7 @@ const Footer = () => {
       <div className={classes.column}>
         <div className={classes.title}>{t('socials')}</div>
         <a
-          href="https://twitter.com/beefyfinance"
+          href="https://docs.google.com/document/d/1ZvKvt8hWqyGU4kJxbVbDMFXwBqv9wLFNC9Q1kwJJ9Mk/edit?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className={classes.link}
@@ -91,7 +91,7 @@ const Footer = () => {
           <span>twitter</span>
         </a>
         <a
-          href="https://t.me/beefyfinance"
+          href="https://docs.google.com/document/d/1ZvKvt8hWqyGU4kJxbVbDMFXwBqv9wLFNC9Q1kwJJ9Mk/edit?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className={classes.link}
@@ -101,7 +101,7 @@ const Footer = () => {
           <span>telegram</span>
         </a>
         <a
-          href="https://discord.gg/yq8wfHd"
+          href="https://docs.google.com/document/d/1ZvKvt8hWqyGU4kJxbVbDMFXwBqv9wLFNC9Q1kwJJ9Mk/edit?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className={classes.link}

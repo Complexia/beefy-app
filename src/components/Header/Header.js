@@ -34,15 +34,7 @@ const Header = ({ links, isNightMode, setNightMode }) => {
       <Toolbar className={classes.container}>
         <Link to={`/${chain}`}>
           <Button className={classes.title}>
-            <Hidden xsDown>
-              <img
-                alt="BIFI"
-                src={require(`images/BIFI-logo.svg`)}
-                height={'40px'}
-                className={classes.logo}
-              />
-              beefy.finance
-            </Hidden>
+            <Hidden xsDown>Coco Finance</Hidden>
             <Hidden smUp>
               <img
                 alt="BIFI"
